@@ -17,8 +17,8 @@ Este proyecto es una herramienta en Python que permite calcular las métricas RO
 
 ### 1. Clona el repositorio
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+https://github.com/cipherpump0/LLM-Rouge-calc.git
+cd LLM-Rouge-calc
 ```
 
 ### 2. Ejecuta el script
